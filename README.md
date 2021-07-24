@@ -11,3 +11,5 @@ Todo:
 2. Add countdown speech for the last ten seconds
 3. Add funny commentary
 4. Submit app to Windows App Store
+
+![MultiTimer Screenshot](/Resources/MultiTimerScreenshot.png?raw=true "MultiTimer Screenshot")
